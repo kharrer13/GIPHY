@@ -1,4 +1,4 @@
-var firstButtons = ['test', 'fail', 'fall'];
+var firstButtons = ['fail', 'fall', 'hit a wall', 'bad day'];
 
 $(document).ready(function () {
 
